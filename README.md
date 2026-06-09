@@ -5,7 +5,9 @@
 
 东北大学信息科学与工程学院本科生毕业设计（论文）
 
-[BEVFusion-Temporal](https://github.com/ZhanRuiXin/BEVFusion-Temporal)  （ 简体中文 | [English](README_en-US.md) ）
+[BEVFusion-Temporal](https://github.com/ZhanRuiXin/BEVFusion-Temporal)  |  [论文 PDF](doc/202606081903.pdf)
+
+（ 简体中文 | [English](README_en-US.md) ）
 
 </div>
 

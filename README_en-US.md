@@ -4,7 +4,11 @@
 
 Undergraduate Graduation Thesis, School of Information Science and Engineering, Northeastern University (China)
 
-[BEVFusion-Temporal](https://github.com/ZhanRuiXin/BEVFusion-Temporal)  （ [简体中文](README.md) | English ）
+
+
+[BEVFusion-Temporal](https://github.com/ZhanRuiXin/BEVFusion-Temporal)  |  [Thesis PDF](doc/202606081903.pdf)
+
+（ [简体中文](README.md) | English ）
 
 </div>
 
